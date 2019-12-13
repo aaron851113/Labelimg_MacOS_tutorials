@@ -52,3 +52,5 @@
 - modify **main_video2image.py**
 - compile **main_video2image.py** <br />
 ![](https://i.imgur.com/BsZ0qqZ.png)
+
+### 4. That's Label them !
