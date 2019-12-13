@@ -50,4 +50,5 @@
 - [Video] -> [label 影片分配名單.xlsx] -> 查看自己的影片代號
 - Create a File [video_to_picture]
 - modify **main_video2image.py**
-- compile **main_video2image.py**
+- compile **main_video2image.py** <br />
+![](https://i.imgur.com/BsZ0qqZ.png)
