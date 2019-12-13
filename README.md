@@ -1,7 +1,5 @@
 # Labelimg_MacOS_tutorials
 
-# Labelimg MacOS tutorials
-
 > 深度學習初探 - HW1 - Labelimg MacOS tutorials
 
 ### 0. Reference 
@@ -23,30 +21,30 @@
     ```
     $ labelImg
     ```
-    ![](https://i.imgur.com/vLxZJZ3.png)
+    ![](https://i.imgur.com/vLxZJZ3.png)<br />
 - 桌面建立一個label的file
-    ![](https://i.imgur.com/4bPZLPc.png)
+    ![](https://i.imgur.com/4bPZLPc.png)<br />
 
     
 ### 2. Test labelImg
 - [改變存放目錄] -> [選取到上一個step創建的label file]
-    ![](https://i.imgur.com/P65cJM4.png)
-    ![](https://i.imgur.com/oEWoGAM.png)
+    ![](https://i.imgur.com/P65cJM4.png)<br />
+    ![](https://i.imgur.com/oEWoGAM.png)<br />
 - [開啟檔案] / [開啟目錄]
-    ![](https://i.imgur.com/8Qmie2o.png)
+    ![](https://i.imgur.com/8Qmie2o.png)<br />
 - [調整圖片顯示大小]
-    ![](https://i.imgur.com/PC7zP3V.png)
+    ![](https://i.imgur.com/PC7zP3V.png)<br />
 - [右鍵] -> [創建區塊]
-    ![](https://i.imgur.com/PC1w1hm.png)
+    ![](https://i.imgur.com/PC1w1hm.png)<br />
 - create label
-    ![](https://i.imgur.com/r55lrj4.png)
-    ![](https://i.imgur.com/uEtI2IJ.png)
+    ![](https://i.imgur.com/r55lrj4.png)<br />
+    ![](https://i.imgur.com/uEtI2IJ.png)<br />
 - [儲存]
-    ![](https://i.imgur.com/3e2Dc38.png)
+    ![](https://i.imgur.com/3e2Dc38.png)<br />
 
 
 ### 3. Video to image
-![](https://i.imgur.com/usQ2Mss.png)
+![](https://i.imgur.com/usQ2Mss.png)<br />
 - [Video] -> [label 影片分配名單.xlsx] -> 查看自己的影片代號
 - Create a File [video_to_picture]
 - modify **main_video2image.py**
