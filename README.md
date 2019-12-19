@@ -14,7 +14,6 @@
 - MacOS 10.14
 - python 3 (3.5~3.7)
     ```
-    $ pip install msgpack
     $ pip install labelImg
     ```
     <br />
